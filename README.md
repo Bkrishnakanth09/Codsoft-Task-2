@@ -1,2 +1,2 @@
-# Codsoft-Task1
-Gym Website using Html and Css
+# Codsoft-Task-2
+LANDING PAGE
